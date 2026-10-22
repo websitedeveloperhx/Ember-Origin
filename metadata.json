@@ -1,0 +1,8 @@
+{
+  "name": "Ember & Origin | Artisanal Fire-Roasted Specialty Coffee",
+  "description": "Where Fire Meets Coffee. An original cinematic coffee experience featuring artisanal fire-roasted beans, interactive 3D ceramic craft, and curated slow-brew rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
